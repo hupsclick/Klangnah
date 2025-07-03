@@ -30,12 +30,7 @@
   --spacing-xl: 2rem;
   --spacing-2xl: 3rem;
 }
-.favicon-container {
-    display: none;
-    background-image: url('/Klangnah/icon-512.png');
-    width: 16px;
-    height: 16px;
-}
+
 /* Dark Mode Variables */
 .dark-mode {
   --bg-primary: #0f172a;
