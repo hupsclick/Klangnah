@@ -34,8 +34,8 @@
 .favicon-container {
     display: none; /* Versteckt das Element */
     background-image: url('/icon-512.png');
-    width: 32px; /* Größe anpassen, falls nötig */
-    height: 32px;
+    width: 16px; /* Größe anpassen, falls nötig */
+    height: 16px;
 }
 /* Dark Mode Variables */
 .dark-mode {
