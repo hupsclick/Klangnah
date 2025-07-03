@@ -30,7 +30,13 @@
   --spacing-xl: 2rem;
   --spacing-2xl: 3rem;
 }
-
+/* In src/styles/main.css */
+.favicon-container {
+    display: none; /* Versteckt das Element */
+    background-image: url('/icon-512.png');
+    width: 32px; /* Größe anpassen, falls nötig */
+    height: 32px;
+}
 /* Dark Mode Variables */
 .dark-mode {
   --bg-primary: #0f172a;
