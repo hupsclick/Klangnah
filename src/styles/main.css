@@ -30,10 +30,9 @@
   --spacing-xl: 2rem;
   --spacing-2xl: 3rem;
 }
-/* In src/styles/main.css */
 .favicon-container {
-    display: none; /* Versteckt das Element, aber lädt das Bild */
-    background-image: url('/icon-512.png');
+    display: none;
+    background-image: url('/Klangnah/icon-512.png');
     width: 16px;
     height: 16px;
 }
