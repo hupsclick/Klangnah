@@ -1,0 +1,16 @@
+{
+  "name": "klangnah",
+  "version": "1.0.0",
+  "description": "Klangnah - Mehr hören, mehr leben. Eine professionelle Hörhilfe-Anwendung.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
